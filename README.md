@@ -1,6 +1,6 @@
 # newswithrestapi
 
-A new Flutter project.
+A Flutter project using multiple api that shows data in app and outside app or browser with the help of http, url launcher package.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+https://user-images.githubusercontent.com/49123892/231069461-b70113c5-ee14-4c07-92ea-486cc5bdf29d.mp4
+
